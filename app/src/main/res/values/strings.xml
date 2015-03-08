@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor Sistemas Numéricos</string>
+    <string name="binario">Binário</string>
+    <string name="dica_binario">Caracteres [0,1]</string>
+    <string name="Octal">Octonal</string>
+    <string name="dica_octal">Caracteres [0-7]</string>
+    <string name="decimal">Decimal</string>
+    <string name="dica_decimal">Caracteres [0-9]</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="dica_hexadecimal">Caracteres {[0-9],[A-F]}</string>
+    <string name="sucesso">Sucesso!</string>
+    <string name="atencao">Atenção!</string>
+    <string name="erro">Erro!</string>
+    <string name="operacao_sucesso">Operação realizada com sucesso.</string>
+    <string name="operacao_erro">Houve um erro na operação.</string>
+</resources>
